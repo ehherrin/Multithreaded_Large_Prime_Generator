@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Multithreaded_Large_Prime_Generator": {
+      "commandName": "Project",
+      "commandLineArgs": "64 3"
+    }
+  }
+}
